@@ -1,5 +1,5 @@
 # Research-Project
-This github repository will be hosing the codes and files I have used as part of my master's research project. 
+This github repository will be housing the codes and files I have used and produced as part of my master's research project. 
 It will contain the codes and files I produced as part of this process.
 
 The code used during this project has been produced by the Casanovo Team.
