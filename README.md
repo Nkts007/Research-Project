@@ -2,8 +2,11 @@
 This github repository will be hosing the codes and files I have used as part of my master's research project. 
 It will contain the codes and files I produced as part of this process.
 
+The code used during this project has been produced by the Casanovo Team.
 
-This project was done with the help of the Casanovo Team.
+(https://github.com/Noble-Lab/casanovo)
+
+
 
 Referenced below:
 
