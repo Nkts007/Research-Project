@@ -2,10 +2,10 @@
 This github repository will be housing the codes and files I have used and produced as part of my master's research project. 
 
 The code used during this project has been produced by the Casanovo Team. The github page is linked here:
-  https://github.com/Noble-Lab/casanovo
+ > https://github.com/Noble-Lab/casanovo
 
 Another resource used in this process is the Galaxy-P Interface linked here: 
-  https://proteomics.usegalaxy.eu/ 
+ > https://proteomics.usegalaxy.eu/ 
 
 References for Casanovo below:
 
