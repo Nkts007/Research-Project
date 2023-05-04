@@ -6,6 +6,9 @@ The code used during this project has been produced by the Casanovo Team.
 
 (https://github.com/Noble-Lab/casanovo)
 
+Another resource used in this process is the Galaxy-P Interface linked below:
+
+https://proteomics.usegalaxy.eu/ 
 
 
 Referenced below:
