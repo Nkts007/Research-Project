@@ -11,4 +11,4 @@ Yilmaz, M., Fondrie, W. E., Bittremieux, W., Oh, S. & Noble, W. S. De novo mass 
 
 
 Yilmaz, M., Fondrie, W. E., Bittremieux, W., Nelson, R., Ananth, V., Oh, S. & Noble, W. S. Sequence-to-sequence translation from mass spectra to peptides with a transformer model. in bioRxiv (2023).
-doi:10.1101/2023.01.03.522621 
+doi: 10.1101/2023.01.03.522621 
