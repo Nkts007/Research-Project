@@ -1,5 +1,5 @@
 # Research-Project
-This github repository will be housing the code I have used as part of my master's research project, as well as a few notes to aid expections and use of the codes. 
+This github repository will be housing the code I have used as part of my master's research project, as well as a few notes to aid expections and use of the code. 
 
 The code used during this project has been produced by the Casanovo Team. The github page is linked here:
  > https://github.com/Noble-Lab/casanovo
